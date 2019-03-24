@@ -1,7 +1,7 @@
 # zf3_vue
 Prerequired
-1. Install Docker
-2. Install Docker-compose
+1. Install Docker. Please following instruction of this website: https://www.docker.com/
+2. Install Docker-compose. Please following instruction of this website: https://docs.docker.com/compose/install/
 
 How to run
 1. type "docker-compose up --build -d" in command line
