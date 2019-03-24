@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ded4275-304c-4dfa-8774-1b7a16b8deb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/zf3_vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue3cli/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/vue/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue3cli" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue3cli" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue3cli/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue3cli/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue3cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue3cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue3cli/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue3cli/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue3cli/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue3cli/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue3cli/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue3cli/src/main.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/zf3/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/components/HelloWorld.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/views/About.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#230#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue3cli/vue.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zend-test</find>
+      <find>out</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue/vue3cli" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/view/error/404.phtml" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/test/Controller/IndexControllerTest.php" />
+        <option value="$PROJECT_DIR$/zf3/composer.json" />
+        <option value="$PROJECT_DIR$/zf3/composer.lock" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/test/Model/FindXModel.php" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/test/Controller/TestControllerTest.php" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/src/Model/ValueOfPosition.php" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/test/Model/FindXModelTest.php" />
+        <option value="$PROJECT_DIR$/zf3/config/autoload/development.local.php" />
+        <option value="$PROJECT_DIR$/zf3/Dockerfile" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/test/Controller/FindValueOfPositionTestControllerTest.php" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/src/Model/GuzzleClient.php" />
+        <option value="$PROJECT_DIR$/zf3/config/application.config.php" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/src/Module.php" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/src/Model/GooglePlace.php" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/config/module.config.php" />
+        <option value="$PROJECT_DIR$/zf3/config/autoload/global.php" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/zf3/module/Application/src/Controller/TestController.php" />
+        <option value="$PROJECT_DIR$/vue/vue3cli/package.json" />
+        <option value="$PROJECT_DIR$/vue/vue3cli/vue.config.js" />
+        <option value="$PROJECT_DIR$/vue/Dockerfile" />
+        <option value="$PROJECT_DIR$/vue/vue3cli/src/router.js" />
+        <option value="$PROJECT_DIR$/vue/vue3cli/public/index.html" />
+        <option value="$PROJECT_DIR$/vue/vue3cli/src/main.js" />
+        <option value="$PROJECT_DIR$/vue/vue3cli/src/App.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-http" />
+      <path value="$PROJECT_DIR$/zf3/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-config" />
+      <path value="$PROJECT_DIR$/zf3/vendor/composer" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-modulemanager" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-uri" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-component-installer" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-validator" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-router" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-loader" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-mvc" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-view" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zfcampus/zf-development-mode" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-servicemanager" />
+      <path value="$PROJECT_DIR$/zf3/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/zf3/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-json" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/zf3/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/zf3/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/zf3/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/zf3/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/zf3/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/zf3/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/zf3/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-test" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-dom" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-console" />
+      <path value="$PROJECT_DIR$/zf3/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/zf3/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/zf3/vendor/zendframework/zend-cache" />
+      <path value="$PROJECT_DIR$/zf3/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/zf3/vendor/cache/adapter-common" />
+      <path value="$PROJECT_DIR$/zf3/vendor/cache/tag-interop" />
+      <path value="$PROJECT_DIR$/zf3/vendor/cache/apc-adapter" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zf3_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zf3_vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zf3_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zf3_vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zf3_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zf3_vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue3cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zf3_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zf3_vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue3cli" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zf3_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zf3_vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue3cli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zf3_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zf3_vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue3cli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zf3_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zf3_vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue3cli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zf3_vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zf3_vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="vue3cli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zf3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.test">
+    <configuration name="FindXModel" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ApplicationTest\Model\FindXModel" configuration_file="$PROJECT_DIR$/zf3/phpunit.xml" directory="$PROJECT_DIR$/zf3/module/Application/test" file="$PROJECT_DIR$/zf3/module/Application/test/Model/FindXModelTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/zf3/phpunit.xml" directory="$PROJECT_DIR$/zf3/module/Application/test" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner configuration_file="$PROJECT_DIR$/zf3/phpunit.xml" directory="$PROJECT_DIR$/zf3/module/Application/test" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.test" />
+      <item itemvalue="PHPUnit.FindXModel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.test" />
+        <item itemvalue="PHPUnit.FindXModel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ded4275-304c-4dfa-8774-1b7a16b8deb5" name="Default Changelist" comment="" />
+      <created>1553302772413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553302772413</updated>
+      <workItem from="1553302773603" duration="32854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test - 2019.03.23 at 10h 26m 54s.xml">
+      <configuration name="test" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test - 2019.03.23 at 10h 27m 04s.xml">
+      <configuration name="test" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test - 2019.03.23 at 10h 27m 34s.xml">
+      <configuration name="test" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test - 2019.03.23 at 10h 28m 57s.xml">
+      <configuration name="test" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test - 2019.03.23 at 10h 29m 27s.xml">
+      <configuration name="test" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test - 2019.03.23 at 10h 29m 57s.xml">
+      <configuration name="test" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FindXModel - 2019.03.23 at 11h 26m 28s.xml">
+      <configuration name="FindXModel" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FindXModel - 2019.03.23 at 11h 27m 50s.xml">
+      <configuration name="FindXModel" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FindXModel - 2019.03.23 at 11h 27m 52s.xml">
+      <configuration name="FindXModel" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test - 2019.03.23 at 11h 27m 59s.xml">
+      <configuration name="test" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32854000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.30204082" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/view/error/404.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1312">
+          <caret line="2685" column="9" selection-start-line="2685" selection-start-column="9" selection-end-line="2685" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/config/autoload/development.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/src/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#315#364#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/test/Controller/IndexControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="e#319#362#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/test/Model/FindXModelTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/test/Controller/FindValueOfPositionTestControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#119#0#PHP" expanded="true" />
+            <element signature="e#166#199#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/src/Model/GuzzleClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <element signature="e#118#140#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/src/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/config/development.config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/src/Model/GooglePlace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="e#289#311#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/config/modules.config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/config/autoload/local.php.dist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/config/application.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/config/autoload/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="34" column="6" selection-start-line="15" selection-start-column="4" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
+          <folding>
+            <element signature="e#304#333#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/data/cache/module-classmap-cache.application.module.cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/src/Model/ValueOfPosition.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#201#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zf3/module/Application/src/Controller/TestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#266#0#PHP" expanded="true" />
+            <element signature="e#305#354#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/.browserslistrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/jest.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/views/About.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#230#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue3cli/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
