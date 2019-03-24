@@ -7,6 +7,7 @@ module.exports = {
       extensions: ['.js'],
       alias: {
         'jquery': 'jquery/dist/jquery.slim.js',
+        'bootstrap-components': path.resolve(__dirname, 'node_modules/bootstrap-vue/es/components'),
       }
     },
     plugins: [
@@ -19,4 +20,5 @@ module.exports = {
       // new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/),
     ]
   }
-}
+};
+
