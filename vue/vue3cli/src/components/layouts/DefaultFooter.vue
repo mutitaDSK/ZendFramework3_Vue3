@@ -1,7 +1,7 @@
 <template>
     <footer>
       <b-navbar toggleable="lg" type="light" variant="light">
-        <b-navbar-brand href="#"></b-navbar-brand>
+        Footer
       </b-navbar>
     </footer>
 </template>

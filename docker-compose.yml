@@ -4,7 +4,7 @@ services:
   zf:
     build: ./zf3
     ports:
-     - '8080:80'
+     - '8081:80'
     volumes:
      - ./zf3:/var/www
     environment:
@@ -12,13 +12,15 @@ services:
   vue:
     build: ./vue
     ports:
-      - '8081:8080'
+      - '8080:8080'
       - '8000:8000'
     stdin_open: true
     tty: true
     environment:
       - NODE_ENV=development
       - GOOGLE_KEY_ENV=AIzaSyCBBqggEb7D5vA7F9iB0duDN1nKpBGpBTc
+    depends_on:
+      - zf
 
 networks:
   default:

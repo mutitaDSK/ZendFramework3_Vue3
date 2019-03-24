@@ -96,12 +96,21 @@ class TestController extends AbstractActionController
 
         $places = json_decode($jsonPlaces);
 
-        $result = new JsonModel([
+        $result = [
             'type' => 'restaurant',
             'location' => 'Bang Sue',
             'results'=> $places,
-        ]);
+        ];
 
-        return $result;
+        $response = new Response();
+        $response->setStatusCode(Response::STATUS_CODE_200);
+        $response->getHeaders()->addHeaders(array(
+            'Access-Control-Allow-Origin' => '*',
+            'Access-Control-Allow-Methods' => 'GET, POST',
+            'Content-Type' => 'application/json',
+            'Access-Control-Allow-Headers' => '*',
+        ));
+        $response->setContent(json_encode($result));
+        return $response;
     }
 }

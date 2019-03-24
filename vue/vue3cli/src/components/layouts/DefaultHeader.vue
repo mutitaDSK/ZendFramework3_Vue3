@@ -10,6 +10,9 @@
             <b-nav-item><router-link to="/">Home</router-link></b-nav-item>
             <b-nav-item><router-link to="/about">About</router-link></b-nav-item>
             <b-nav-item><router-link to="/test">Test</router-link></b-nav-item>
+            <b-nav-item>
+              <router-link to="/restaurants/bangsue">Restaurants</router-link>
+            </b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-navbar>
